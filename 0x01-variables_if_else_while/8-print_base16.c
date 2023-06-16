@@ -5,7 +5,7 @@
  * Description: Print base 16 numbers
  * Return: Always 0 (success)
  */
-int main(void)
+int main(v1oid)
 {
 	char c;
 	char d = '0';
